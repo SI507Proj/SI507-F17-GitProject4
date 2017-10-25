@@ -1,3 +1,5 @@
+# Better caching system
+# Sharon and Stella
 # OAuth1 Code to access data from the Twitter API...
 import requests_oauthlib
 import webbrowser
